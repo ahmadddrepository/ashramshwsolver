@@ -1,0 +1,3 @@
+channel.json -text
+releases/** -text
+downloads/** -text
