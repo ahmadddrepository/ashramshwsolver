@@ -1,0 +1,26 @@
+Ashrams Solver icon credits
+
+Interface icons
+Lucide contributors, https://lucide.dev
+Official lucide-static package, version 1.56.0.
+Source: https://www.npmjs.com/package/lucide-static/v/1.56.0
+License: ISC, included in LICENSE-LUCIDE.txt.
+The helper bundles selected official icon paths without runtime dependencies.
+
+Provider and community marks
+Simple Icons contributors, https://simpleicons.org
+Gemini, Claude and Discord: official simple-icons package version 16.35.0.
+OpenAI: official simple-icons package version 14.15.0.
+Source: https://github.com/simple-icons/simple-icons
+License: CC0 1.0, included in LICENSE-SIMPLE-ICONS.txt.
+
+Classera wordmark
+Original transparent asset from Classera's official website, used unchanged.
+Source: https://classera.com/static/assets/img/logos/hqlogo.svg
+Classera is a trademark of Classera Inc. All rights remain with its owner.
+
+Google Gemini is a trademark of Google LLC.
+ChatGPT and OpenAI are trademarks of OpenAI.
+Claude is a trademark of Anthropic.
+Discord is a trademark of Discord Inc.
+Marks identify the corresponding services; no affiliation is implied.
