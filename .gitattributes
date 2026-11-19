@@ -1,4 +1,5 @@
 channel.json -text
 releases/** -text
 v2/** -text
+v3/** -text
 downloads/** -text
